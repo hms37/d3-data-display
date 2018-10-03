@@ -1,5 +1,6 @@
-# OdenDataDisplay
+# D3-Data-Display
 
+This project is mainly for displaying the data using D3 library.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
 
 ## Development server
